@@ -3,6 +3,10 @@
     <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/goodcabs-high-resolution-logo%20(2).png">
 </p>
 
+ I have worked on this analysis project provided by [CodeBasics](https://codebasics.io/resources/end-to-end-data-analyst-project)
+
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 
 #### **About the Project**  
 This project focuses on analyzing operational performance for **GoodCabs**, a cab service company operating in Tier-2 cities across India. The aim was to provide actionable insights to improve **trip volume**, **repeat passenger rates**, **new passenger acquisition**, and **customer satisfaction**, aligning with the company’s ambitious 2024 growth targets.
