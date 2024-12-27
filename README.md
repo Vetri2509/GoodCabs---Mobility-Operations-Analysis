@@ -1,4 +1,8 @@
 ### **GoodCabs: Mobility Operations Dashboard and Analysis**
+<p align="center">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/goodcabs-high-resolution-logo%20(2).png">
+</p>
+
 
 #### **About the Project**  
 This project focuses on analyzing operational performance for **GoodCabs**, a cab service company operating in Tier-2 cities across India. The aim was to provide actionable insights to improve **trip volume**, **repeat passenger rates**, **new passenger acquisition**, and **customer satisfaction**, aligning with the company’s ambitious 2024 growth targets.
@@ -20,7 +24,18 @@ GoodCabs faced challenges in identifying high and low-performing cities, underst
      - **Business Overview**: Showcased all relevant KPIs and metrics.  
      - **Performance Metrics**: Highlighted actuals vs. targets.  
      - **Customer Insights**: Focused on repeat passenger rates, customer satisfaction, and trip patterns.  
-     - **Geographic Insights**: Provided city-specific charts and measures.  
+     - **Geographic Insights**: Provided city-specific charts and measures.
+
+       <p align="center">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20092627.png">
+
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093242.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093307.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093350.png">
+</p>
+</p>
+
+
 
 3. **SQL Reports**:  
    - Generated SQL-based reports for ad-hoc business queries, such as city-level performance, peak demand identification, and trip frequency analysis.  
