@@ -1,6 +1,6 @@
 ### **GoodCabs: Mobility Operations Dashboard and Analysis**
 <p align="center">
-    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/goodcabs-high-resolution-logo%20(2).png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Images/goodcabs-high-resolution-logo%20(2).png">
 </p>
 
  I have worked on this analysis project provided by [CodeBasics](https://codebasics.io/resources/end-to-end-data-analyst-project)
@@ -31,11 +31,11 @@ GoodCabs faced challenges in identifying high and low-performing cities, underst
      - **Geographic Insights**: Provided city-specific charts and measures.
 
        <p align="center">
-    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20092627.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Images/Screenshot%202024-12-27%20092627.png">
 
-    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093242.png">
-    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093307.png">
-    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Screenshot%202024-12-27%20093350.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Images/Screenshot%202024-12-27%20093242.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Images/Screenshot%202024-12-27%20093307.png">
+    <img src="https://github.com/Vetri2509/GoodCabs---Mobility-Operations-Analysis/blob/main/Images/Screenshot%202024-12-27%20093350.png">
 </p>
 </p>
 
